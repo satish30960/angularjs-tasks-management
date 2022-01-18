@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+ 1993  ng add @fortawesome/angular-fontawesome
+ 1994  ng add @fortawesome/angular-fontawesome@0.8.2
+ 1995  ng generate service services/task
+ 1996  npm i json-server
+ 1997  ng generate component components/add-task
+ 1998  ng generate service services/ui
+ 1999  ng generate component components/about
+ 2000  ng generate component components/footer
