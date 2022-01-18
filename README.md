@@ -24,12 +24,19 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Commands to generate components and services
 ng add @fortawesome/angular-fontawesome
+##
 ng add @fortawesome/angular-fontawesome@0.8.2
+##
 ng generate service services/task
+##
 npm i json-server
+##
 ng generate component components/add-task
+##
 ng generate service services/ui
+##
 ng generate component components/about
+##
 ng generate component components/footer
 
 ## Further help
